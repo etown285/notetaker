@@ -13,7 +13,7 @@ A app that saves notes for the user and saves them to be accessed for later brow
 
 ## Usage
 
-![Screenshot]()
+![Screenshot](https://github.com/etown285/notetaker/blob/main/Assets/Notetakerapp.gif)
 
 ## Links
 
